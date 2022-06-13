@@ -1,6 +1,8 @@
 # Projeto Dashboard
 
 Projeto realizado para teste de frontend ao qual deve seguir o layout produzido no [Figma](https://www.figma.com/).
+![Captura de tela 2022-06-13 113218](https://user-images.githubusercontent.com/2348971/173378374-63c8ecd2-e8d6-4657-a943-0c081666b01f.png)
+
 
 ## Inicialização do Projeto
 
